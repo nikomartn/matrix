@@ -11,5 +11,7 @@ void lInDim(int * fil, int * col){
 	if(!(col == NULL)){
 		printf("Introduzca tamaño de columnas:\t");
 		scanf("%d",col);
+		
+		/*measasdfadf*/
 	}
 }
